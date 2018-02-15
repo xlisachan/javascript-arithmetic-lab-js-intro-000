@@ -35,5 +35,5 @@ function isNan(n) {
 }
 
 function preserveDecimal(n) {
-  return preserveDecimal(n);
+  return parseFloat(n);
 }
